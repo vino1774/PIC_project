@@ -1,0 +1,11 @@
+#include<xc.h>
+ADCON0=0x1;
+ADCON1=0x1;
+int op;
+while(1){
+Go/Gone=0;
+while(go/done=
+int n=5;
+op=ADDRESSh<<2|ADRESSL;
+
+}
